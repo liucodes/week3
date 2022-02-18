@@ -1,12 +1,13 @@
 body {
   font-family: sans-serif;
   background-color: pink;
-  margin-left: 20em
+  margin-left: 20%
 }
 
 body {
-  margin-right: 20em
+  margin-right: 20%
 }
+
 
 hr {
 	background: #193F44 ;
@@ -17,7 +18,7 @@ hr {
 h1 {
   font-family: serif;
   font-weight: 500;
-  font-size: 125px
+  font-size: 600%
 }
 
 h1 {

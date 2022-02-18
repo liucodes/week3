@@ -1,8 +1,11 @@
 body {
   font-family: sans-serif;
   background-color: pink;
-  margin: 25em
+  margin-left: 20em
+}
 
+body {
+  margin-right: 20em
 }
 
 hr {

@@ -1,5 +1,63 @@
 body {
   font-family: sans-serif;
+  background-color: pink;
+  padding: 0 450px 40px 450px;
 
-  background-color: blue;
+}
+
+hr {
+	background: #193F44 ;
+	border: 0;
+	height: 1.5px;
+}
+
+h1 {
+  font-family: serif;
+  font-weight: 500;
+  font-size: 125px
+}
+
+h1 {
+  color: #193F44
+}
+
+body {
+  color: #193F44
+}
+
+img {
+
+  height: auto;
+  max-width: 100%;
+
+}
+
+.play {
+  height: auto;
+  max-width: 10%;
+  padding: 30px 0 30px 0
+}
+
+.quote {
+  font-family: serif;
+  font-style: italic;
+  font-size: 30px
+}
+
+.fun {
+  height: auto;
+  max-width: 3%;
+  padding: 30px 0 0 0
+}
+
+.hello {
+  font-family: serif;
+  font-style: italic;
+  font-size: 25px
+}
+
+.headline {
+  font-family: serif;
+  font-style: italic;
+  font-size: 25px
 }
